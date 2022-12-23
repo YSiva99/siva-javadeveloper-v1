@@ -3,4 +3,6 @@ class Sample{
         System.out.println( "Added the new Branch in git from devteam1");
         
     }
+    int a=90;
+    
 }
