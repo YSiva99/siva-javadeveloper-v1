@@ -1,6 +1,10 @@
 int a=800
 <<<<<<< HEAD
+<<<<<<< HEAD
 int b=900
 =======
 
 >>>>>>> 47c2823d8df415a98fc2a7e972ef941e58f66142
+=======
+int c=700
+>>>>>>> bc7f75a51df019fe7c7c6afcda6f9ae35d499170
